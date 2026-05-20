@@ -11,4 +11,5 @@ A tool to get information by phone number | by axom.
 ```rm -rf axphonenum```
 ```git clone https://github.com/axomtools/axphonenum.git```
 ```cd axphonenum```
+```pip install -r requirements.txt```
 ```python main.py```
